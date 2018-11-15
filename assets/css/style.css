@@ -1,0 +1,51 @@
+/* Header information goes here */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none
+}
+
+li a:hover {
+    background-color: azure;
+}
+
+
+
+
+/* information for the rest of the css body */
+.header {
+    background-color: blue;
+    text-align: left;
+    padding: 5px;
+    float: left;
+}
+
+.aboutme {
+    font-family: verdana;
+}
+
+.img1 {
+    float: left;
+}
+/* footer information */
+
+.footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+}
